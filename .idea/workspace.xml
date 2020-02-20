@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0491f492-80c9-4c86-9db7-2fd3b5dd03a9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XuC2s4cpicJ0HQAxNzKVVYWG13" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="TestNG.CheckEmailUnhappyPath">
+    <configuration name="UiTestCases" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AutomationPractice" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UiTestCases" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UiTestCases.verifyString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="AutomationPractice" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="UiTestCases" />
+      <option name="METHOD_NAME" value="verifyString" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckEmailHappyPath" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationPractice" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CheckEmailHappyPath" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckEmailHappyPath.check" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationPractice" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CheckEmailHappyPath" />
+      <option name="METHOD_NAME" value="check" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckEmailUnhappyPath" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationPractice" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CheckEmailUnhappyPath" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.CheckEmailUnhappyPath" />
+        <item itemvalue="TestNG.CheckEmailHappyPath" />
+        <item itemvalue="TestNG.CheckEmailHappyPath.check" />
+        <item itemvalue="JUnit.UiTestCases" />
+        <item itemvalue="JUnit.UiTestCases.verifyString" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0491f492-80c9-4c86-9db7-2fd3b5dd03a9" name="Default Changelist" comment="" />
+      <created>1581886388634</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581886388634</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="115" key="#Project_Structure" timestamp="1581887398122">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="115" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1581887398122" />
+    <state x="768" y="134" key="#com.intellij.ide.util.MemberChooser" timestamp="1581918297538">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="768" y="134" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1581918297538" />
+    <state x="558" y="114" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1581887859123">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="558" y="114" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1440.900@0.0.1440.900" timestamp="1581887859123" />
+    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog" timestamp="1581889664239">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="100" y="100" width="1240" height="700" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1581889664239" />
+    <state width="1398" height="291" key="GridCell.Tab.0.bottom" timestamp="1582032616574">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="291" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582032616574" />
+    <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.23.1440.802@0.23.1440.802" timestamp="1581958086803" />
+    <state width="1398" height="291" key="GridCell.Tab.0.center" timestamp="1582032616572">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="291" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1582032616572" />
+    <state width="1398" height="303" key="GridCell.Tab.0.center/0.23.1440.802@0.23.1440.802" timestamp="1581958086802" />
+    <state width="1398" height="291" key="GridCell.Tab.0.left" timestamp="1582032616571">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="291" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1582032616571" />
+    <state width="1398" height="303" key="GridCell.Tab.0.left/0.23.1440.802@0.23.1440.802" timestamp="1581958086801" />
+    <state width="1398" height="291" key="GridCell.Tab.0.right" timestamp="1582032616573">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="291" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1582032616573" />
+    <state width="1398" height="303" key="GridCell.Tab.0.right/0.23.1440.802@0.23.1440.802" timestamp="1581958086802" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1581958086804">
+      <screen x="0" y="23" width="1440" height="802" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1581938548720" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.23.1440.802@0.23.1440.802" timestamp="1581958086804" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1581958086803">
+      <screen x="0" y="23" width="1440" height="802" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1581938548719" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.23.1440.802@0.23.1440.802" timestamp="1581958086803" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1581958086803">
+      <screen x="0" y="23" width="1440" height="802" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1581938548719" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.23.1440.802@0.23.1440.802" timestamp="1581958086803" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1581958086803">
+      <screen x="0" y="23" width="1440" height="802" />
+    </state>
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1581938548720" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.23.1440.802@0.23.1440.802" timestamp="1581958086803" />
+    <state x="283" y="87" width="1024" height="802" key="SettingsEditor" timestamp="1581957430953">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state x="283" y="72" width="1024" height="802" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1581939961890" />
+    <state x="283" y="87" key="SettingsEditor/0.23.1440.804@0.23.1440.804" timestamp="1581957430953" />
+    <state x="424" y="325" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1581888467555">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="424" y="325" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1440.900@0.0.1440.900" timestamp="1581888467555" />
+    <state x="385" y="198" width="670" height="603" key="search.everywhere.popup" timestamp="1582028498050">
+      <screen x="0" y="23" width="1440" height="802" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1581919042144" />
+    <state x="385" y="198" width="670" height="603" key="search.everywhere.popup/0.23.1440.802@0.23.1440.802" timestamp="1582028498050" />
+  </component>
+</project>
