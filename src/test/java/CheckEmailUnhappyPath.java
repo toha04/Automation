@@ -3,9 +3,9 @@ import org.testng.annotations.Test;
 
 
 public class CheckEmailUnhappyPath {
-    @Test (dataProvider = "Unhappy_path_data", dataProviderClass = Data.class)
-    public void checkFalse(String email) {
-        boolean unhappy = false;
-        Assert.assertEquals(unhappy, Email.isEmailCorrect(email));
+    @Test (dataProvider = "unhappyPathData", dataProviderClass = Data.class)
+    public void checkEmailVerificationUnhappyPath(String email) {
+        boolean actualResult = Email.isEmailCorrect(email);
+        Assert.assertFalse(actualResult);
     }
 }

@@ -1,20 +1,24 @@
 import org.testng.annotations.DataProvider;
 
 public class Data {
-    @DataProvider (name = "happy_path_data")
-    public static Object[][] Happydata() {
+    @DataProvider (name = "happyPathData")
+    public static Object[][] happyData() {
 
-        return new Object[][]{{"!Aaazhfk657_@fF6.com"},
+        return new Object[][]{{"q1w2e3r4t5_!_!Y6u7I8@fF6.com"},
+                {"!_Q@fF6.com"},
                 {"!_hjfhd474@747jh.net"},
                 {"88888gppF@009.oiu"},
-                {"12234kjs!nj_@jfss.faw"},
-                {"____!!!!!!!@11111.hgf"},
-                {"Q23eT87!!__@fghj.ijk"}
+                {"12234kjs!nj_@jfss.fw"},
+                {"____!!!!!!!@1111.hfff"},
+                {"Q23eT87!!__@fghj.ifjk"},
+                {"bfhhdf89!!_@fhjfj.fhdjj"},
+                {"r_T@u5.ua"},
+                {"sjfishfi98437488__!!@sfhj4.bhvjg"}
         };
     }
 
-@DataProvider (name = "Unhappy_path_data")
-    public static Object[][] UnhappyData() {
+@DataProvider (name = "unhappyPathData")
+    public static Object[][] unhappyData() {
         return new Object[][]{{"12@hbfs4.ukr"},
                 {"sdhkshcksd47y84723__!!!@4j8.oks"},
                 {"j5kl5k1###__!!@ksfd.kde"},
