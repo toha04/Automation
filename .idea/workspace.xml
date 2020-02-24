@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0491f492-80c9-4c86-9db7-2fd3b5dd03a9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/VarargExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/VarargOverload.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/VarargsFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/CheckAssertion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/CheckEmailHappyPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CheckEmailHappyPath.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/CheckEmailUnhappyPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/CheckEmailUnhappyPath.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Data.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/CheckEmailHappyPath.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CheckEmailHappyPath.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/CheckEmailUnhappyPath.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CheckEmailUnhappyPath.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Data.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Data.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,72 +48,60 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="TestNG.CheckEmailUnhappyPath">
-    <configuration name="UiTestCases" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.VarargOverload">
+    <configuration name="VarargExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VarargExample" />
+      <module name="AutomationPractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VarargOverload" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VarargOverload" />
+      <module name="AutomationPractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VarargsFormat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="VarargsFormat" />
+      <module name="AutomationPractice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckAssertion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="AutomationPractice" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="UiTestCases" />
+      <option name="MAIN_CLASS_NAME" value="CheckAssertion" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UiTestCases.verifyString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CheckAssertion.testCaseVerifyLogIn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="AutomationPractice" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="UiTestCases" />
-      <option name="METHOD_NAME" value="verifyString" />
+      <option name="MAIN_CLASS_NAME" value="CheckAssertion" />
+      <option name="METHOD_NAME" value="testCaseVerifyLogIn" />
       <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CheckEmailHappyPath" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="AutomationPractice" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CheckEmailHappyPath" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CheckEmailHappyPath.check" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="AutomationPractice" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CheckEmailHappyPath" />
-      <option name="METHOD_NAME" value="check" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CheckEmailUnhappyPath" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="AutomationPractice" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CheckEmailUnhappyPath" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.CheckEmailUnhappyPath" />
-        <item itemvalue="TestNG.CheckEmailHappyPath" />
-        <item itemvalue="TestNG.CheckEmailHappyPath.check" />
-        <item itemvalue="JUnit.UiTestCases" />
-        <item itemvalue="JUnit.UiTestCases.verifyString" />
+        <item itemvalue="Application.VarargOverload" />
+        <item itemvalue="Application.VarargsFormat" />
+        <item itemvalue="Application.VarargExample" />
+        <item itemvalue="JUnit.CheckAssertion" />
+        <item itemvalue="JUnit.CheckAssertion.testCaseVerifyLogIn" />
       </list>
     </recent_temporary>
   </component>
@@ -150,29 +135,33 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="558" y="114" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1440.900@0.0.1440.900" timestamp="1581887859123" />
+    <state x="486" y="316" width="467" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1582487917350">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="486" y="316" width="467" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1440.900@0.0.1440.900" timestamp="1582487917350" />
     <state x="100" y="100" width="1240" height="700" key="DiffContextDialog" timestamp="1581889664239">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="100" y="100" width="1240" height="700" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1581889664239" />
-    <state width="1398" height="291" key="GridCell.Tab.0.bottom" timestamp="1582265738402">
+    <state width="1398" height="291" key="GridCell.Tab.0.bottom" timestamp="1582489306806">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="291" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582265738402" />
+    <state width="1398" height="291" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582489306806" />
     <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.23.1440.802@0.23.1440.802" timestamp="1581958086803" />
-    <state width="1398" height="291" key="GridCell.Tab.0.center" timestamp="1582265738401">
+    <state width="1398" height="291" key="GridCell.Tab.0.center" timestamp="1582489306805">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="291" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1582265738401" />
+    <state width="1398" height="291" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1582489306805" />
     <state width="1398" height="303" key="GridCell.Tab.0.center/0.23.1440.802@0.23.1440.802" timestamp="1581958086802" />
-    <state width="1398" height="291" key="GridCell.Tab.0.left" timestamp="1582265738400">
+    <state width="1398" height="291" key="GridCell.Tab.0.left" timestamp="1582489306804">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="291" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1582265738400" />
+    <state width="1398" height="291" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1582489306804" />
     <state width="1398" height="303" key="GridCell.Tab.0.left/0.23.1440.802@0.23.1440.802" timestamp="1581958086801" />
-    <state width="1398" height="291" key="GridCell.Tab.0.right" timestamp="1582265738402">
+    <state width="1398" height="291" key="GridCell.Tab.0.right" timestamp="1582489306805">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="291" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1582265738402" />
+    <state width="1398" height="291" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1582489306805" />
     <state width="1398" height="303" key="GridCell.Tab.0.right/0.23.1440.802@0.23.1440.802" timestamp="1581958086802" />
     <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1581958086804">
       <screen x="0" y="23" width="1440" height="802" />
