@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0491f492-80c9-4c86-9db7-2fd3b5dd03a9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/seleniumBaseApi/src/test/java/CheckBoxes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seleniumBaseApi/src/test/java/CheckByCSS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seleniumBaseApi/src/test/java/CheckByXPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seleniumBaseApi/src/test/java/CheckingOfButtons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seleniumBaseApi/src/test/java/Dropdown.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seleniumBaseApi/.seleniumApi.xml.swp" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,30 +54,9 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.VarargOverload">
-    <configuration name="VarargExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VarargExample" />
-      <module name="AutomationPractice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="VarargOverload" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VarargOverload" />
-      <module name="AutomationPractice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="VarargsFormat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VarargsFormat" />
-      <module name="AutomationPractice" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.Dropdown">
     <configuration name="CheckAssertion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="AutomationPractice" />
       <option name="PACKAGE_NAME" value="" />
@@ -81,28 +66,63 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CheckAssertion.testCaseVerifyLogIn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CheckBoxes" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="AutomationPractice" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CheckAssertion" />
-      <option name="METHOD_NAME" value="testCaseVerifyLogIn" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="CheckBoxes" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckingOfButtons" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationPractice" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CheckingOfButtons" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CheckingOfButtons.verifyDriver" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationPractice" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CheckingOfButtons" />
+      <option name="METHOD_NAME" value="verifyDriver" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Dropdown" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutomationPractice" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="Dropdown" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.VarargOverload" />
-        <item itemvalue="Application.VarargsFormat" />
-        <item itemvalue="Application.VarargExample" />
+        <item itemvalue="TestNG.Dropdown" />
+        <item itemvalue="TestNG.CheckBoxes" />
+        <item itemvalue="TestNG.CheckingOfButtons" />
         <item itemvalue="JUnit.CheckAssertion" />
-        <item itemvalue="JUnit.CheckAssertion.testCaseVerifyLogIn" />
+        <item itemvalue="TestNG.CheckingOfButtons.verifyDriver" />
       </list>
     </recent_temporary>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>$USER_HOME$/.subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -115,10 +135,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="320" y="115" key="#Project_Structure" timestamp="1581887398122">
+    <state x="320" y="115" key="#Project_Structure" timestamp="1582985129337">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="115" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1581887398122" />
+    <state x="320" y="115" key="#Project_Structure/0.0.1440.900@0.0.1440.900" timestamp="1582985129337" />
     <state x="435" y="234" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582217912254">
       <screen x="0" y="23" width="1440" height="802" />
     </state>
@@ -139,25 +159,25 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="100" y="100" width="1240" height="700" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1581889664239" />
-    <state width="1398" height="291" key="GridCell.Tab.0.bottom" timestamp="1582556954651">
+    <state width="1398" height="291" key="GridCell.Tab.0.bottom" timestamp="1582995404243">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="291" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582556954651" />
+    <state width="1398" height="291" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582995404243" />
     <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.23.1440.802@0.23.1440.802" timestamp="1581958086803" />
-    <state width="1398" height="291" key="GridCell.Tab.0.center" timestamp="1582556954650">
+    <state width="1398" height="291" key="GridCell.Tab.0.center" timestamp="1582995404242">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="291" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1582556954650" />
+    <state width="1398" height="291" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1582995404242" />
     <state width="1398" height="303" key="GridCell.Tab.0.center/0.23.1440.802@0.23.1440.802" timestamp="1581958086802" />
-    <state width="1398" height="291" key="GridCell.Tab.0.left" timestamp="1582556954650">
+    <state width="1398" height="291" key="GridCell.Tab.0.left" timestamp="1582995404241">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="291" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1582556954650" />
+    <state width="1398" height="291" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1582995404241" />
     <state width="1398" height="303" key="GridCell.Tab.0.left/0.23.1440.802@0.23.1440.802" timestamp="1581958086801" />
-    <state width="1398" height="291" key="GridCell.Tab.0.right" timestamp="1582556954651">
+    <state width="1398" height="291" key="GridCell.Tab.0.right" timestamp="1582995404242">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="291" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1582556954651" />
+    <state width="1398" height="291" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1582995404242" />
     <state width="1398" height="303" key="GridCell.Tab.0.right/0.23.1440.802@0.23.1440.802" timestamp="1581958086802" />
     <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1581958086804">
       <screen x="0" y="23" width="1440" height="802" />
@@ -179,19 +199,23 @@
     </state>
     <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1581938548720" />
     <state width="1398" height="303" key="GridCell.Tab.1.right/0.23.1440.802@0.23.1440.802" timestamp="1581958086803" />
-    <state x="283" y="87" width="1024" height="802" key="SettingsEditor" timestamp="1581957430953">
-      <screen x="0" y="23" width="1440" height="804" />
+    <state x="283" y="72" width="1024" height="802" key="SettingsEditor" timestamp="1582992710338">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="283" y="72" width="1024" height="802" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1581939961890" />
+    <state x="283" y="72" width="1024" height="802" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1582992710338" />
     <state x="283" y="87" key="SettingsEditor/0.23.1440.804@0.23.1440.804" timestamp="1581957430953" />
+    <state width="1113" height="900" key="com.intellij.byteCodeViewer.ShowByteCodeAction" timestamp="1582992673116">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1113" height="900" key="com.intellij.byteCodeViewer.ShowByteCodeAction/0.0.1440.900@0.0.1440.900" timestamp="1582992673116" />
     <state x="424" y="325" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1581888467555">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="424" y="325" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1440.900@0.0.1440.900" timestamp="1581888467555" />
-    <state x="385" y="198" width="670" height="603" key="search.everywhere.popup" timestamp="1582028498050">
-      <screen x="0" y="23" width="1440" height="802" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1582992698024">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1581919042144" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1582992698024" />
     <state x="385" y="198" width="670" height="603" key="search.everywhere.popup/0.23.1440.802@0.23.1440.802" timestamp="1582028498050" />
   </component>
 </project>
