@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0491f492-80c9-4c86-9db7-2fd3b5dd03a9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/seleniumBaseApi/src/test/java/CheckBoxes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seleniumBaseApi/src/test/java/CheckByCSS.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seleniumBaseApi/src/test/java/CheckByXPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seleniumBaseApi/src/test/java/CheckingOfButtons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seleniumBaseApi/src/test/java/Dropdown.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seleniumBaseApi/.seleniumApi.xml.swp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/seleniumBaseApi/src/test/java/CheckingOfButtons.java" beforeDir="false" afterPath="$PROJECT_DIR$/seleniumBaseApi/src/test/java/CheckingOfButtons.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,25 +154,25 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="100" y="100" width="1240" height="700" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1581889664239" />
-    <state width="1398" height="291" key="GridCell.Tab.0.bottom" timestamp="1582995404243">
+    <state width="1398" height="291" key="GridCell.Tab.0.bottom" timestamp="1583045106989">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="291" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1582995404243" />
+    <state width="1398" height="291" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583045106989" />
     <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.23.1440.802@0.23.1440.802" timestamp="1581958086803" />
-    <state width="1398" height="291" key="GridCell.Tab.0.center" timestamp="1582995404242">
+    <state width="1398" height="291" key="GridCell.Tab.0.center" timestamp="1583045106988">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="291" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1582995404242" />
+    <state width="1398" height="291" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1583045106988" />
     <state width="1398" height="303" key="GridCell.Tab.0.center/0.23.1440.802@0.23.1440.802" timestamp="1581958086802" />
-    <state width="1398" height="291" key="GridCell.Tab.0.left" timestamp="1582995404241">
+    <state width="1398" height="291" key="GridCell.Tab.0.left" timestamp="1583045106987">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="291" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1582995404241" />
+    <state width="1398" height="291" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1583045106987" />
     <state width="1398" height="303" key="GridCell.Tab.0.left/0.23.1440.802@0.23.1440.802" timestamp="1581958086801" />
-    <state width="1398" height="291" key="GridCell.Tab.0.right" timestamp="1582995404242">
+    <state width="1398" height="291" key="GridCell.Tab.0.right" timestamp="1583045106988">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="291" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1582995404242" />
+    <state width="1398" height="291" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1583045106988" />
     <state width="1398" height="303" key="GridCell.Tab.0.right/0.23.1440.802@0.23.1440.802" timestamp="1581958086802" />
     <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1581958086804">
       <screen x="0" y="23" width="1440" height="802" />

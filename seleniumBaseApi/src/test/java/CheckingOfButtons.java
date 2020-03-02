@@ -18,7 +18,6 @@ public class CheckingOfButtons {
         chromeDriver = new ChromeDriver();
         chromeDriver.navigate().to("https://formy-project.herokuapp.com/buttons");
         chromeDriver.manage().timeouts().implicitlyWait(DELAY, TimeUnit.SECONDS);
-        chromeDriver.manage().window().maximize();
     }
 
     @Test ()
@@ -82,7 +81,7 @@ public class CheckingOfButtons {
     }
 
     @Test(priority = 12)
-    public void clickOnLinkTwoinDropdown() {
+    public void clickOnLinkTwoInDropdown() {
         chromeDriver.findElement(By.id("btnGroupDrop1")).click();
         chromeDriver.findElement(By.xpath("//a[contains(text(), \"Dropdown link 2\")]")).click();
     }
