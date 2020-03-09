@@ -4,6 +4,10 @@
     <list default="true" id="0491f492-80c9-4c86-9db7-2fd3b5dd03a9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/seleniumBaseApi/src/test/java/CheckingOfButtons.java" beforeDir="false" afterPath="$PROJECT_DIR$/seleniumBaseApi/src/test/java/CheckingOfButtons.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seleniumBaseApi/src/test/java/Dropdown.java" beforeDir="false" afterPath="$PROJECT_DIR$/seleniumBaseApi/src/test/java/Dropdown.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CheckBoxes.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CheckBoxes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/CheckingOfButtons.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/CheckingOfButtons.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Dropdown.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Dropdown.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +55,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="TestNG.Dropdown">
+  <component name="RunManager" selected="TestNG.CheckBoxes">
     <configuration name="CheckAssertion" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="AutomationPractice" />
       <option name="PACKAGE_NAME" value="" />
@@ -72,23 +76,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CheckingOfButtons" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="CheckBoxes.clickOnCheckBoxesByXPath" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="AutomationPractice" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="CheckingOfButtons" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="MAIN_CLASS_NAME" value="CheckBoxes" />
+      <option name="METHOD_NAME" value="clickOnCheckBoxesByXPath" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CheckingOfButtons.verifyDriver" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="CheckingOfButtons" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="AutomationPractice" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="CheckingOfButtons" />
-      <option name="METHOD_NAME" value="verifyDriver" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -108,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.Dropdown" />
         <item itemvalue="TestNG.CheckBoxes" />
+        <item itemvalue="TestNG.CheckBoxes.clickOnCheckBoxesByXPath" />
+        <item itemvalue="TestNG.Dropdown" />
         <item itemvalue="TestNG.CheckingOfButtons" />
         <item itemvalue="JUnit.CheckAssertion" />
-        <item itemvalue="TestNG.CheckingOfButtons.verifyDriver" />
       </list>
     </recent_temporary>
   </component>
@@ -154,45 +158,45 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="100" y="100" width="1240" height="700" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1581889664239" />
-    <state width="1398" height="291" key="GridCell.Tab.0.bottom" timestamp="1583045106989">
+    <state width="1398" height="291" key="GridCell.Tab.0.bottom" timestamp="1583407866260">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="291" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583045106989" />
+    <state width="1398" height="291" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583407866260" />
     <state width="1398" height="303" key="GridCell.Tab.0.bottom/0.23.1440.802@0.23.1440.802" timestamp="1581958086803" />
-    <state width="1398" height="291" key="GridCell.Tab.0.center" timestamp="1583045106988">
+    <state width="1398" height="291" key="GridCell.Tab.0.center" timestamp="1583407866259">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="291" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1583045106988" />
+    <state width="1398" height="291" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1583407866259" />
     <state width="1398" height="303" key="GridCell.Tab.0.center/0.23.1440.802@0.23.1440.802" timestamp="1581958086802" />
-    <state width="1398" height="291" key="GridCell.Tab.0.left" timestamp="1583045106987">
+    <state width="1398" height="291" key="GridCell.Tab.0.left" timestamp="1583407866258">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="291" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1583045106987" />
+    <state width="1398" height="291" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1583407866258" />
     <state width="1398" height="303" key="GridCell.Tab.0.left/0.23.1440.802@0.23.1440.802" timestamp="1581958086801" />
-    <state width="1398" height="291" key="GridCell.Tab.0.right" timestamp="1583045106988">
+    <state width="1398" height="291" key="GridCell.Tab.0.right" timestamp="1583407866259">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="291" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1583045106988" />
+    <state width="1398" height="291" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1583407866259" />
     <state width="1398" height="303" key="GridCell.Tab.0.right/0.23.1440.802@0.23.1440.802" timestamp="1581958086802" />
-    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1581958086804">
-      <screen x="0" y="23" width="1440" height="802" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1583407866252">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1581938548720" />
+    <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1583407866252" />
     <state width="1398" height="303" key="GridCell.Tab.1.bottom/0.23.1440.802@0.23.1440.802" timestamp="1581958086804" />
-    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1581958086803">
-      <screen x="0" y="23" width="1440" height="802" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center" timestamp="1583407866251">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1581938548719" />
+    <state width="1398" height="303" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1583407866251" />
     <state width="1398" height="303" key="GridCell.Tab.1.center/0.23.1440.802@0.23.1440.802" timestamp="1581958086803" />
-    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1581958086803">
-      <screen x="0" y="23" width="1440" height="802" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left" timestamp="1583407866250">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1581938548719" />
+    <state width="1398" height="303" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1583407866250" />
     <state width="1398" height="303" key="GridCell.Tab.1.left/0.23.1440.802@0.23.1440.802" timestamp="1581958086803" />
-    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1581958086803">
-      <screen x="0" y="23" width="1440" height="802" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right" timestamp="1583407866251">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1581938548720" />
+    <state width="1398" height="303" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1583407866251" />
     <state width="1398" height="303" key="GridCell.Tab.1.right/0.23.1440.802@0.23.1440.802" timestamp="1581958086803" />
     <state x="283" y="72" width="1024" height="802" key="SettingsEditor" timestamp="1582992710338">
       <screen x="0" y="0" width="1440" height="900" />

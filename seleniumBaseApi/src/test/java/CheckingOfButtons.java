@@ -17,7 +17,6 @@ public class CheckingOfButtons {
         System.setProperty("webdriver.chrome.driver", exePath);
         chromeDriver = new ChromeDriver();
         chromeDriver.navigate().to("https://formy-project.herokuapp.com/buttons");
-        chromeDriver.manage().timeouts().implicitlyWait(DELAY, TimeUnit.SECONDS);
     }
 
     @Test ()
